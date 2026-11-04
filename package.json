@@ -1,0 +1,23 @@
+{
+  "name": "aman-singh-portfolio",
+  "version": "3.0.0",
+  "description": "Portfolio of Aman Singh — Professional Flutter Developer, Full Stack AI Web Developer, Meta & Google Ads Specialist",
+  "scripts": {
+    "dev": "npx --yes serve . -l 3000",
+    "serve": "npx --yes serve . -l 3000",
+    "start": "python3 -m http.server 3000"
+  },
+  "keywords": [
+    "flutter",
+    "dart",
+    "ai-web-development",
+    "meta-ads",
+    "google-ads",
+    "portfolio",
+    "threejs",
+    "gsap"
+  ],
+  "author": "Aman Singh",
+  "license": "MIT"
+}
+
